@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/a0WQqKLVppAMmcHz2DHArDFiZ8TdnqFQ+FoD3MhVWOpT3Z0sBUTrT4d08Tq7Tnt0u/6npRCy/+UHHxfTPdHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\source\\repos\\otiryaki94\\repairshop\\RepairShop\\RepairShop.Core\\RepairShop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
